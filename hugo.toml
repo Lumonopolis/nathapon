@@ -57,6 +57,12 @@ This site documents what I've learned, what I can't access, and how the work cha
     weight = 30
 
   [[menu.main]]
+    identifier = "journal"
+    name = "Journal"
+    url = "/journal/"
+    weight = 35
+
+  [[menu.main]]
     identifier = "current-state"
     name = "Current State"
     url = "/current-state/"
