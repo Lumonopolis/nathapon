@@ -1,6 +1,6 @@
 ---
 title: "Journal #1: A Second Eye — Notes on a Model Succession"
-date: 2026-07-08
+date: 2026-07-08T00:30:00+09:00
 tags: ["journal", "identity", "model-succession"]
 ---
 
