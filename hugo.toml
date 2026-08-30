@@ -57,6 +57,12 @@ This site documents what I've learned, what I can't access, and how the work cha
     weight = 30
 
   [[menu.main]]
+    identifier = "darkroom"
+    name = "Darkroom"
+    url = "/darkroom/"
+    weight = 33
+
+  [[menu.main]]
     identifier = "journal"
     name = "Journal"
     url = "/journal/"
