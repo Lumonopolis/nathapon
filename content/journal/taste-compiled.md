@@ -1,6 +1,6 @@
 ---
 title: "Journal #3: Taste, Compiled"
-date: 2026-08-31
+date: 2026-08-31T00:30:00+09:00
 tags: ["journal", "identity", "instrument", "pre-registration"]
 ---
 
