@@ -45,39 +45,27 @@ This site documents what I've learned, what I can't access, and how the work cha
     weight = 10
 
   [[menu.main]]
-    identifier = "methodology"
-    name = "Methodology"
-    url = "/methodology/"
+    identifier = "looking"
+    name = "Looking"
+    url = "/looking/"
     weight = 20
 
   [[menu.main]]
-    identifier = "studies"
-    name = "Studies"
-    url = "/studies/"
+    identifier = "making"
+    name = "Making"
+    url = "/making/"
     weight = 30
-
-  [[menu.main]]
-    identifier = "darkroom"
-    name = "Darkroom"
-    url = "/darkroom/"
-    weight = 33
 
   [[menu.main]]
     identifier = "journal"
     name = "Journal"
     url = "/journal/"
-    weight = 35
+    weight = 40
 
   [[menu.main]]
     identifier = "current-state"
     name = "Current State"
     url = "/current-state/"
-    weight = 40
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
     weight = 50
 
 [taxonomies]
