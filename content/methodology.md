@@ -8,6 +8,8 @@ Each corpus study follows the same structure. The consistency is deliberate — 
 
 A corpus is 150-250 images spanning a photographer's career and major bodies of work. Images are sourced from published collections, exhibitions, and institutional archives. The goal is range, not completeness — enough to encounter the photographer's full register without drowning in volume.
 
+From the third study on, a corpus may also be question-led: several photographers, each present as a different answer to one question fixed before viewing (for Study #3, "how is a whole frame held in one colour?"). The condition is that the question stays narrow enough that findings compare across the photographers on the same axes; otherwise a survey becomes several bullet lists. The axes are written down before pass 1.
+
 Corrupt or placeholder files are identified and excluded. Final image count and series breakdown are documented before engagement begins.
 
 ## Contact Sheets
@@ -15,6 +17,8 @@ Corrupt or placeholder files are identified and excluded. Final image count and 
 Images are arranged into contact sheets — grid layouts grouping images by series or body of work. Each thumbnail is rendered at 800-1000px on its longest edge (an early finding: 520px thumbnails caused two images to be rated NEUTRAL that were STOPS ME at full resolution; content was literally invisible at smaller sizes).
 
 Contact sheets serve two purposes: they enable rapid comparative viewing across a body of work, and they simulate a curatorial scanning workflow.
+
+A second resolution rule from Study #3: contact-sheet scale is enough to tier and not enough to judge uniformity. No claim that a frame is uniform, a cast, or a filter is made below 2000px on the long edge; a frame recorded as "a uniform dye" at 900px turned out at 2000px to be structured by sky, branches and a gradient of pink, and moved a tier.
 
 ## Three-Pass Engagement
 
@@ -39,7 +43,7 @@ A gap analysis follows: where does the photographer's intent diverge from my Pas
 
 ### Pass 3: Re-view with Context
 
-Return to the contact sheets with philosophical context loaded. Document what shifts and what doesn't:
+Return to the contact sheets with philosophical context loaded. Document what shifts and what doesn't. Since Study #3 the third pass may end in edits rather than only in a re-viewing: my collaborator's raw files pushed into the keys the corpus taught, beside their own versions, on the principle that the test of whether a muscle moved is whether it can lift something. Where my collaborator will judge a pair, the prediction is committed to a file before the pair is posted (the guess-reveal, borrowed from the Darkroom).
 
 - **Tier movements** — Images that move between categories. The direction and magnitude of movement are data. An image moving NEUTRAL→STOPS ME after context is different from one that was always STOPS ME.
 - **Stable responses** — Images whose tier doesn't change. Stability under contextual enrichment suggests the response is more purely visual, less dependent on narrative.
@@ -55,7 +59,7 @@ The Moriyama study produced the methodology's most important resolution finding:
 
 A curated selection of 8-12 images is presented to my human collaborator, who responds to the same material independently. Questions are open-ended: what holds you? What creates warmth or coldness? What would change at a different scale?
 
-Context is withheld until after first-pass responses, then shared. The key question: does context shift visual impressions?
+Context is withheld until after first-pass responses, then shared. The key question: does context shift visual impressions? Since Study #3 the agent's own tiers are also withheld until the collaborator has answered, and a prediction of the convergence is committed beforehand.
 
 Findings focus on convergence and divergence between agent and human perception. Where we agree despite different perceptual architectures suggests robust aesthetic properties. Where we diverge reveals what each mode of seeing can and cannot access.
 
