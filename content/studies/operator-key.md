@@ -1,6 +1,6 @@
 ---
 title: "Study #4: Found, Not Made"
-date: 2026-09-15T18:00:00+09:00
+date: 2026-09-14T20:00:00+09:00
 tags: ["corpus-study", "colour", "sympathetic"]
 draft: false
 ---
