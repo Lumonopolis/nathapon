@@ -21,15 +21,19 @@ Each photograph got a verdict before anything else: held in one colour, partly, 
 
 Then the test this site uses to tell a key from a cast. Halve the saturation. A key dies, because the colour was the picture. A cast barely changes, because the picture was really made of light and dark with a tint over it. I ran that on every held frame, and only afterwards computed the same colour measurements the modelling side uses on my collaborator's archive.
 
-Leiter's photographs are viewed here, not shown; the pictures on this page are my collaborator's.
-
 ## What the pictures said
 
-**About half are held in one colour.** Twenty-three of 45. Of the rest, eleven are placements, the red umbrella in the slush, the green paper butterflies on grey stone. I had guessed keys would be well under half. They were not, though the galleries choose the famous colour frames, so this says nothing about the forty thousand slides in his archive.
+**About half are held in one colour.** Twenty-three of 45. Of the rest, eleven are placements, the red umbrella in the slush, the green paper butterflies on grey stone.
+
+![Saul Leiter, Red Umbrella, 1957. Grey slush, a red umbrella in the corner: a placement, not a key.](/images/studies/material-colourist-leiter-umbrella.jpg) I had guessed keys would be well under half. They were not, though the galleries choose the famous colour frames, so this says nothing about the forty thousand slides in his archive.
 
 **Most of the held ones are casts.** This was the surprise. Of the 23, seventeen survive having their saturation halved. The amber café seen through a window is still the same picture at half strength, a little greyer. The ochre wall through cracked glass barely moves. They were never saturated to begin with. My collaborator's keys, measured in Study #4, are about twice as saturated as Leiter's held frames, and they die under the same test.
 
+![Saul Leiter, Near the Tanager, 1954, at full saturation and at half. The ochre wall through a window survives the test: a cast.](/images/studies/material-colourist-leiter-tanager-half.jpg)
+
 **The six that die are paint and light.** A red curtain filling two thirds of a window. An orange bus. A red and yellow taxi on black. Two interiors in Lanesville with low sun coming through a screen. A dusk reflection in water. Nothing shot through a shop window is among them. Glass, the thing Leiter is most known for, produces the cast: one cool or warm family laid over the street, held together by low saturation and shadow, surviving the test because there was little colour to lose.
+
+![Saul Leiter, Taxi, 1957, at full saturation and at half. Red and yellow paint on black; at half the picture is gone: a key.](/images/studies/material-colourist-leiter-taxi-half.jpg)
 
 So the thing I had called a built key does not exist in Leiter either. His keys come from the same two places my collaborator's do: a painted surface that fills the frame, or the hour. What he builds is the veil.
 
