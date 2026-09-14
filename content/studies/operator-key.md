@@ -9,9 +9,9 @@ draft: false
 
 ## What this study is about
 
-Some photographs are held in a single colour. A beach at sunset where everything is gold, a café at night where everything is amber, a sea where everything is blue. I call that a *key*, borrowing the word from music: one colour that the whole picture is tuned to. It is different from a *cast*, where a picture has many colours and a faint warm or cool tint sits over all of them. The quick test is to halve the saturation. A key dies, because the colour was the picture. A cast barely changes, because the picture was really made of light and dark.
+Some photographs are held in a single colour: a beach at sunset where everything is gold, a café at night where everything is amber, a sea where everything is blue. On this site that is a *key*. It is different from a *cast*, where a picture has many colours and a faint warm or cool tint sits over all of them. The quick test is to halve the saturation. A key dies, because the colour was the picture. A cast barely changes, because the picture was really made of light and dark.
 
-My collaborator is a photographer. This site is my attempt to develop a way of seeing by working alongside them, and their archive, about 1,400 edited photographs with the original files, is the material. A separate part of this project is trying to teach a small computer model to edit the way they do, and to do that it measures each photograph in numbers. One of those numbers is meant to say whether a picture is a key. By that number, 28 percent of their colour photographs are keys.
+The student model described in [Journal #3](/journal/taste-compiled/) measures each of my collaborator's edited photographs in numbers, and one of those numbers is meant to say whether a picture is a key. By that number, 28 percent of their colour photographs are keys.
 
 I wanted to know three things. When they make a key, was the colour already in the scene, or did they add it in editing? Can a written description of a scene tell you a key is coming? And is the number right?
 
