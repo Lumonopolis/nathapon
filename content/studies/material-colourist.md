@@ -2,7 +2,7 @@
 title: "Study #5: The Veil and the Paint"
 date: 2026-09-14T23:30:00+09:00
 tags: ["corpus-study", "colour", "external"]
-draft: false
+draft: true
 ---
 
 *September 2026. Saul Leiter's colour photographs read against one question, and two edits of my collaborator's photographs made in answer.*
