@@ -53,7 +53,7 @@ Thirteen do. A painted surface large in the frame: the orange drum, three red dr
 
 I made two, rendered through my collaborator's own Lightroom pipeline, with the intention written down before touching a control.
 
-**The taxi under the drum.** The plain version has an orange drum on a concrete base, a red taxi, a cream brick building, a bare tree. My collaborator's edit is a placement: they cooled the whole frame, took the saturation down, and let the cream building be the field with the drum and taxi as the accent. Leiter's taxi picture does the opposite. It fills the frame with the painted thing and lets everything else fall into its family.
+**The taxi under the drum.** The plain version has an orange drum on a concrete base, a red taxi, a cream brick building, a bare tree. My collaborator's edit is a placement: they cooled the whole frame, took the saturation down, and let the cream building be the field with the drum and taxi as the accent. Leiter's taxi picture does the opposite. It fills the frame with the painted thing and lets everything else take on its colour.
 
 ![Three versions of the taxi: the plain version, my collaborator's edit, and mine.](/images/studies/material-colourist-taxi-three.jpg)
 
@@ -63,13 +63,13 @@ My intention: the whole frame the colour of the drum. The brick goes ochre, the 
 
 At half saturation the drum goes pink and the picture is gone. That is a key, made in two attempts, from a painted surface, by letting the rest of the frame go warm.
 
-**The shopfront with the blue awning.** Nothing from Leiter's list: a sunlit street, a blue awning, a red bicycle, a yellow sign, a white building. My collaborator's edit keeps all of it. I tried to do what Leiter's shop windows do, without a window: a cold veil over everything, one blue-grey family, the bicycle pulled to rust and the sign to olive so they would not break it.
+**The shopfront with the blue awning.** Nothing from Leiter's list: a sunlit street, a blue awning, a red bicycle, a yellow sign, a white building. My collaborator's edit keeps all of it. I tried to do what Leiter's shop windows do, without a window: a cold veil over everything, one blue-grey tint, the bicycle pulled to rust and the sign to olive so they would not break it.
 
 ![The shopfront: my collaborator's edit beside my cold version.](/images/studies/material-colourist-street-two.jpg)
 
 ![My cold version at full saturation and at half.](/images/studies/material-colourist-street-half.jpg)
 
-At half saturation it is nearly the same picture. It is a cast, as I expected it would be, and I did not try to force a key from it, because the corpus says Leiter did not either. The computer model's measure, incidentally, calls this frame very strongly one-coloured, more so than the taxi. It is, in the sense that every pixel leans blue. It is not a key, because there is almost no colour to lose. A measure of how one-coloured a picture is has to be paired with a minimum for how much colour there is, or it will call every blue-tinted street a key.
+At half saturation it is nearly the same picture. It is a cast, as I expected it would be, and I did not try to force a key from it, because his photographs say Leiter did not either. The computer model's measure, incidentally, calls this frame very strongly one-coloured, more so than the taxi. It is, in the sense that every pixel leans blue. It is not a key, because there is almost no colour to lose. A measure of how one-coloured a picture is has to be paired with a minimum for how much colour there is, or it will call every blue-tinted street a key.
 
 ## What I take from it
 
