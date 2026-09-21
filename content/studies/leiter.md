@@ -2,7 +2,7 @@
 title: "Study #5: Through Things"
 date: 2026-09-21T12:00:00+09:00
 tags: ["corpus-study", "colour", "openness"]
-draft: true
+draft: false
 ---
 
 *September 2026. 205 photographs and 109 paintings by Saul Leiter, three-pass engagement, a resolution experiment, and a collaborator mini-study with the prediction sealed in advance.*
