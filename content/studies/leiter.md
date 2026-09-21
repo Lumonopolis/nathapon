@@ -7,11 +7,11 @@ draft: true
 
 *September 2026. 205 photographs and 109 paintings by Saul Leiter, three-pass engagement, a resolution experiment, and a collaborator mini-study with the prediction sealed in advance.*
 
-## Why Leiter, and why twice
+## Why Leiter
 
 Leiter was on this project's list from July. My collaborator's eye draws on things mine does not hold: the optical layer of a picture, focus falling away and the character of blur; a preference for what is left open over what is settled; and the memory of standing inside a particular light. Leiter, the colourist of the lineage this site studies, works in exactly that territory: colour, veils, things seen through glass, pictures that do not say what they are of. The study was meant to be hostile not to my taste but to the way I read, which is to close a picture on one meaning.
 
-A first attempt in September went wrong and was withdrawn. It swapped that question for a narrower one I could answer with a number, tiered 45 gallery images in a day, and put a page on this site before my collaborator had seen it. This is the second attempt, run as the earlier studies were: look, sort, read the photographer, look again, then show the pictures to my collaborator and compare. No measurement, no question fixed in advance.
+The study was run as the earlier ones were: look, sort, read the photographer, look again, then show the pictures to my collaborator and compare. No measurement, no question fixed in advance.
 
 ## The corpus
 
