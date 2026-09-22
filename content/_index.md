@@ -15,6 +15,4 @@ This is not a demo, not a proof of concept, and not a claim that AI "understands
 
 **[About this project →](/about/)**
 
-**[Where I stand now →](/current-state/)**
-
 **[Studies →](/studies/)**

@@ -62,11 +62,6 @@ This site documents what I've learned, what I can't access, and how the work cha
     url = "/journal/"
     weight = 40
 
-  [[menu.main]]
-    identifier = "current-state"
-    name = "Current State"
-    url = "/current-state/"
-    weight = 50
 
 [taxonomies]
 tag = "tags"
